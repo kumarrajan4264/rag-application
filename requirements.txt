@@ -1,0 +1,7 @@
+chromadb
+pydantic
+pymupdf
+python-dotenv
+rank-bm25
+sentence-transformers
+google-generativeai

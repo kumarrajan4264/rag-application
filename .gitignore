@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/raw/
+data/processed/
+data/chroma/
+.pytest_cache/
+.vscode/
+.idea/
+
+# Downloaded local ML models are environment artifacts; do not commit them to Git.
+models/*/
+!models/.gitkeep
